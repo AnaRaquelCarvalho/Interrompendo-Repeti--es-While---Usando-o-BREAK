@@ -42,3 +42,5 @@ while True:
         break
 print('\033[1:31m[{}]'.format(opcao),'OPÇÃO INVÁLIDA - TENTE NOVAMENTE!')
 print('='*46)
+
+
